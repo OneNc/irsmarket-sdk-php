@@ -13,7 +13,7 @@
 ### 1. Install via Composer
 
 ```bash
-composer require irsmarket/api-client
+composer require onenc/irsmarket-sdk-php
 ```
 
 ### 2. Setup Credentials

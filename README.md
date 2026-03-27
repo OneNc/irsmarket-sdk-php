@@ -5,7 +5,7 @@ Library Composer untuk mengakses API IRSMarket. Library ini memudahkan integrasi
 ## 📦 Instalasi
 
 ```bash
-composer require irsmarket/api-client
+composer require onenc/irsmarket-sdk-php
 ```
 
 ## 🚀 Quick Start
