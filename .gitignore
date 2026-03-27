@@ -30,4 +30,4 @@ Vagrantfile
 .python-version
 *.sublime-workspace
 *.sublime-project
-
+PROJECT_STRUCTURE.md
